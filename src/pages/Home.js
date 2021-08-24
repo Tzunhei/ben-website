@@ -64,12 +64,13 @@ const Home = () => {
             </Typography>
             <Typography paragraph>
               Le taux horaire est de 40 € de l'heure pour la boîte mécanique, 45 € pour la boîte
-              automatique.
+              automatique. (Tarif dégressif pour un pack de 10h)
             </Typography>
-            <Typography paragraph>Mes créneaux horaires : du lundi au dimanche.</Typography>
+            <Typography paragraph>Mes créneaux horaires : du lundi au samedi.</Typography>
             <Typography paragraph>La séance de conduite est de 2H.</Typography>
             <Typography paragraph>
-              Le point de rendez-vous est situé au métro porte d'Italie.
+              Le point de rendez-vous est situé au métro porte d'Italie. (6 Boulevard Kellermann,
+              Paris 13e)
             </Typography>
             <Typography variant='h5' gutterBottom color='secondary'>
               Méthodologie
